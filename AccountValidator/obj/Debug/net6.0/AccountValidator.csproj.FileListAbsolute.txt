@@ -1,0 +1,15 @@
+C:\Users\kzeyn\source\repos\AccountValidator\AccountValidator\bin\Debug\net6.0\AccountValidator.exe
+C:\Users\kzeyn\source\repos\AccountValidator\AccountValidator\bin\Debug\net6.0\AccountValidator.deps.json
+C:\Users\kzeyn\source\repos\AccountValidator\AccountValidator\bin\Debug\net6.0\AccountValidator.runtimeconfig.json
+C:\Users\kzeyn\source\repos\AccountValidator\AccountValidator\bin\Debug\net6.0\AccountValidator.dll
+C:\Users\kzeyn\source\repos\AccountValidator\AccountValidator\bin\Debug\net6.0\AccountValidator.pdb
+C:\Users\kzeyn\source\repos\AccountValidator\AccountValidator\obj\Debug\net6.0\AccountValidator.csproj.AssemblyReference.cache
+C:\Users\kzeyn\source\repos\AccountValidator\AccountValidator\obj\Debug\net6.0\AccountValidator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kzeyn\source\repos\AccountValidator\AccountValidator\obj\Debug\net6.0\AccountValidator.AssemblyInfoInputs.cache
+C:\Users\kzeyn\source\repos\AccountValidator\AccountValidator\obj\Debug\net6.0\AccountValidator.AssemblyInfo.cs
+C:\Users\kzeyn\source\repos\AccountValidator\AccountValidator\obj\Debug\net6.0\AccountValidator.csproj.CoreCompileInputs.cache
+C:\Users\kzeyn\source\repos\AccountValidator\AccountValidator\obj\Debug\net6.0\AccountValidator.dll
+C:\Users\kzeyn\source\repos\AccountValidator\AccountValidator\obj\Debug\net6.0\refint\AccountValidator.dll
+C:\Users\kzeyn\source\repos\AccountValidator\AccountValidator\obj\Debug\net6.0\AccountValidator.pdb
+C:\Users\kzeyn\source\repos\AccountValidator\AccountValidator\obj\Debug\net6.0\AccountValidator.genruntimeconfig.cache
+C:\Users\kzeyn\source\repos\AccountValidator\AccountValidator\obj\Debug\net6.0\ref\AccountValidator.dll
